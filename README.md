@@ -56,5 +56,3 @@ YouTubeチャンネルと連携し、学習の積み重ねと挑戦の記録を�
 https://www.youtube.com/watch?v=N4u5IDX7Up0
 
 ---
-
-この文章を `README.md` に貼り付けて、コミット（保存）してくださ
