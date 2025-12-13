@@ -1,7 +1,4 @@
 ## 2025年12月13日
-## 📝 GitHub README.md (新規作成・更新用)
-
-前回提供したテンプレートを、YouTubeチャンネルのタイトルと説明に合わせて更新しました。これを `README.md` に貼り付けてください。
 
 ### Sports Data Portfolio: MLB Statcast Analysis (2025 Season)
 
@@ -40,7 +37,7 @@ YouTubeチャンネルと連携し、学習の積み重ねと挑戦の記録を�
 | **分析期間** | 2025年シーズン（3月18日〜9月28日） |
 | **主なコード内容** | **pybaseball によるライブラリのインストール、2025年シーズンデータの月ごとダウンロード、CSVファイルの読み込みとPandasによる結合処理。** |
 | **Notebook** | `notebooks/data_acquisition_and_combination.ipynb` (仮名) |
-| **YouTube URL** | (初投稿したYouTube動画のURLを貼り付けてください) |
+| **YouTube URL** | https://www.youtube.com/watch?v=N4u5IDX7Up0 |
 
 ---
 
