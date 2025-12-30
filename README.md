@@ -70,8 +70,6 @@ Gemini,Copilot からコードを抽出 → 可視化できるまでを写経し
 
 「Be Water」の実践: 「名前をフルネームにしたい」「単位を明記したい」という直感的な改善案を即座にコードに反映させる過程で、ライブラリの仕様への理解が深まりました。
 
-https://www.youtube.com/watch?v=WcMDTI-Hwbw
-
 ### 【3日目】2025年12月31日：4シーム平均回転数（Spin Rate）分析
 
 **YouTube動画:**  https://www.youtube.com/watch?v=WcMDTI-Hwbw
