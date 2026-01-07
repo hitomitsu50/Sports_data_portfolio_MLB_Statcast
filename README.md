@@ -86,7 +86,7 @@ Gemini,Copilot からコードを抽出 → 可視化できるまでを写経し
 **振り返り:**
 名前の入れ替えや右側に回転数と単位を表示することができました。
 
-###【4日目】2026年1月1日：打者別バレル率（Barrel%）分析
+### 【4日目】2026年1月1日：打者別バレル率（Barrel%）分析
 
 **YouTube動画:** https://www.youtube.com/watch?v=pgRGFXLMyMc
 
