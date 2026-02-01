@@ -398,7 +398,8 @@ player_name列が投手名を指すデータ構造に対し、batter（打者ID�
 ### 🎥 YouTube動画解説
 [動画はこちらから視聴できます](https://youtube.com/shorts/H8-v6fWXGoE?feature=share)  
 ---
-
+[動画はこちらから視聴できます]（https://www.youtube.com/watch?v=dxADk3apMTc）  
+---
 **※ 本プロジェクトの分析コードおよびREADMEドキュメントは、AI (Gemini) との対話を通じて生成・最適化されたものです。**
 
 - **The Artisan (Yu Darvish)**: 効率スコア **0.455** は、回転というエネルギーを無駄なく「落差」へと変換する卓越した技術の証です。
