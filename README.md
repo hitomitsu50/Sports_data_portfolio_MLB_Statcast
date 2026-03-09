@@ -637,6 +637,6 @@ Japanese Pitchers Series: 菊池 雄星 投手の「球速」と「スライダ�
 
 ### 🎥 YouTube動画解説
 [動画はこちらから視聴できます](https://www.youtube.com/watch?v=Q-6lvEvJVVY) 
-
+[動画はこちらから視聴できます](https://www.youtube.com/watch?v=R9mTRjyrEHI)
 ---
 **結論として、菊池雄星投手の2025年は、スライダーとフォーシームを軸に据えつつ、どの球種でも空振りを奪える非常にバランスの取れた、かつ攻撃的な投球スタイルであったと言えます。**
